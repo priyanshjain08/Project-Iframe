@@ -1,4 +1,4 @@
-# Project 8 – I-Frame Dashboard 🖥️
+# Project – I-Frame Dashboard 🖥️
 
 A simple **HTML and CSS project dashboard** that uses an **iframe** to display different projects within the same page.
 
